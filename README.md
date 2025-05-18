@@ -81,8 +81,8 @@ mern-admin-panel/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/mern-admin-panel.git
-cd mern-admin-panel
+git clone https://github.com/Mjolnir10/Agent_Management-System?tab=readme-ov-file
+cd Agent_Management_System
 ```
 
 ### 2. Backend Setup
@@ -118,12 +118,6 @@ Frontend should now be running on [http://localhost:5173](http://localhost:5173)
 
 ---
 
-## 📹 Demo
-
-Watch the demo video hosted on Google Drive:  
-🔗 [Google Drive Demo Link](https://drive.google.com/your-demo-link)
-
----
 
 ## ✅ Requirements Checklist
 
